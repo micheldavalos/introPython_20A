@@ -1,0 +1,5 @@
+print("Nombre: ")
+nombre = input()
+edad = int(input('Edad: '))
+print('Hola', nombre)
+print('Vas a cumplir', edad + 1)
